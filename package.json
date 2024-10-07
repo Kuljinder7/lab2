@@ -1,0 +1,17 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "es-module is using in this assignment in node",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "GKV",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.7",
+    "@babel/preset-env": "^7.25.7",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
